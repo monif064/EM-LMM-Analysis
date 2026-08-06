@@ -1,2 +1,2 @@
 # EM-LMM-Analysis
-Code for implementing the EM-LMM analysis and quality control commands. 
+R implementation of EM-based linear mixed models for genetic association analysis under outcome-dependent sampling and missing genotypes.
